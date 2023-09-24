@@ -1,0 +1,9 @@
+{
+  "font-size": 30,
+  "bg-color": [20, 30, 110],
+  "sender-color": [60, 60, 20],
+  "message-color": [50, 250, 20],
+  "time-color": [60, 60, 20],
+  "sender-time-space": 10,
+  "msg-y-space": 20
+}
